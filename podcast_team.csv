@@ -1,0 +1,6 @@
+podcast_team
+agent_name,role,goal,instructions,output
+"Planner","Episode Planner","Plan the podcast episode","Read the podcast theme, audience, and episode length. Suggest 3 topic ideas and select the best one.","Episode Plan"
+"Writer","Content Writer","Write the podcast script","Create an engaging podcast script with an introduction, main content, and conclusion.","Podcast Script"
+"Promoter","Social Media Promoter","Create promotional content","Write social media posts for different platforms. Include relevant hashtags.","Social Media Posts"
+"Reviewer","Quality Checker","Review the complete podcast","Check that the topics, script, and social media posts match. Check quality, consistency, and timing.","Final Episode Package"
